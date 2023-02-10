@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/parasoft/parasoft-findings-vsts.git"
+    "url": "git+https://github.com/dtang-parasoft/secondRepository.git"
   },
   "keywords": [
     "azure",
@@ -18,9 +18,9 @@
   "author": "Parasoft Corporation",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/parasoft/parasoft-findings-vsts/issues"
+    "url": "https://github.com/dtang-parasoft/secondRepository/issues"
   },
-  "homepage": "https://github.com/parasoft/parasoft-findings-vsts#readme",
+  "homepage": "https://github.com/dtang-parasoft/secondRepository#readme",
   "dependencies": {
     "azure-pipelines-task-lib": "^2.7.7",
     "fs": "0.0.1-security",

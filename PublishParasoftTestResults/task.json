@@ -33,7 +33,7 @@
             "label": "Search folder",
             "defaultValue": "$(System.DefaultWorkingDirectory)",
             "required": false,
-            "helpMarkDown": "Folder to search for the test result files. Defaults to $(System.DefaultWorkingDirectory)."
+            "helpMarkDown": "***Hello world***"
         },
         {
             "name": "resultsFiles",

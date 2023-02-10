@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/parasoft/parasoft-findings-vsts.git"
+    "url": "git+https://github.com/dtang-parasoft/secondRepository.git"
   },
   "keywords": [
     "azure",
@@ -26,8 +26,11 @@
   "author": "Parasoft Corporation",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/parasoft/parasoft-findings-vsts/issues"
+    "url": "https://github.com/dtang-parasoft/secondRepository/issues"
   },
-  "homepage": "https://github.com/parasoft/parasoft-findings-vsts#readme",
-  "icon": "images/icon.png"
+  "homepage": "https://github.com/dtang-parasoft/secondRepository#readme",
+  "icon": "images/icon.png",
+  "dependencies": {
+    "vss-web-extension-sdk": "^5.141.0"
+  }
 }

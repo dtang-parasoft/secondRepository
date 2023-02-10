@@ -3,7 +3,7 @@
     "id": "parasoft-findings-vsts",
     "name": "Parasoft Findings",
     "version": "1.0.7",
-    "publisher": "lukasz-biel",
+    "publisher": "Don",
     "targets": [
         {
             "id": "Microsoft.VisualStudio.Services"
@@ -67,7 +67,7 @@
     },
     "repository": {
         "type": "git",
-        "uri": "https://github.com/parasoft/parasoft-findings-vsts.git"
+        "uri": "https://github.com/dtang-parasoft/secondRepository.git"
     },
     "branding": {
         "color": "#004877",
