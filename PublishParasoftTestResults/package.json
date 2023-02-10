@@ -1,0 +1,34 @@
+{
+  "name": "parasoft-findings-vsts-publish",
+  "version": "1.0.7",
+  "description": "Azure Pipelines Publish Parasoft Test Results Task",
+  "main": "publishtestresults.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parasoft/parasoft-findings-vsts.git"
+  },
+  "keywords": [
+    "azure",
+    "vsts",
+    "parasoft"
+  ],
+  "author": "Parasoft Corporation",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/parasoft/parasoft-findings-vsts/issues"
+  },
+  "homepage": "https://github.com/parasoft/parasoft-findings-vsts#readme",
+  "dependencies": {
+    "azure-pipelines-task-lib": "^2.7.7",
+    "fs": "0.0.1-security",
+    "sax": "^1.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^8.10.66",
+    "@types/q": "^1.5.5",
+    "@types/sax": "^1.0.0"
+  }
+}
