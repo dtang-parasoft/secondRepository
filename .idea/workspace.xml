@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5f15abd-5b6c-4b99-8a3f-f0e5af86c02e" name="Changes" comment="2.16">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f5f15abd-5b6c-4b99-8a3f-f0e5af86c02e" name="Changes" comment="2.20" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +46,7 @@
       <workItem from="1676532653565" duration="52000" />
       <workItem from="1676532837641" duration="87000" />
       <workItem from="1676533703595" duration="86000" />
+      <workItem from="1676874572629" duration="105000" />
     </task>
     <task id="LOCAL-00001" summary="2.16">
       <created>1676519198800</created>
@@ -57,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676519198801</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2.20">
+      <created>1676874633761</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676874633761</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +81,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2.16" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.16" />
+    <MESSAGE value="2.20" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.20" />
   </component>
 </project>
