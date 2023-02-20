@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5f15abd-5b6c-4b99-8a3f-f0e5af86c02e" name="Changes" comment="111">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/secondRepository.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PublishParasoftTestResults/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/PublishParasoftTestResults/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PublishParasoftTestResults/task.json" beforeDir="false" afterPath="$PROJECT_DIR$/PublishParasoftTestResults/task.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vss-extension.json" beforeDir="false" afterPath="$PROJECT_DIR$/vss-extension.json" afterDir="false" />
+    <list default="true" id="f5f15abd-5b6c-4b99-8a3f-f0e5af86c02e" name="Changes" comment="2.16">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,21 +28,36 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../parasoft-findings-plugin-jenkin" />
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/parasoft-findings-bamboo" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="D:\idea\IntelliJ_IDEA_2021.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d0e7be9a-8caf-42ad-8341-77bfb312680c" name="Changes" comment="" />
+      <changelist id="f5f15abd-5b6c-4b99-8a3f-f0e5af86c02e" name="Changes" comment="111" />
       <created>1675741236681</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675741236681</updated>
       <workItem from="1675741243243" duration="41000" />
       <workItem from="1676007563446" duration="53000" />
+      <workItem from="1676519127392" duration="690000" />
+      <workItem from="1676531940160" duration="39000" />
+      <workItem from="1676532653565" duration="52000" />
+      <workItem from="1676532837641" duration="87000" />
+      <workItem from="1676533703595" duration="86000" />
     </task>
+    <task id="LOCAL-00001" summary="2.16">
+      <created>1676519198800</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676519198801</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -63,5 +73,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2.16" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.16" />
   </component>
 </project>
